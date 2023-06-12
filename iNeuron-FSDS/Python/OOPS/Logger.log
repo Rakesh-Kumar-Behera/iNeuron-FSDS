@@ -1,0 +1,69 @@
+2023-06-01 19:41:00,857 DEBUG diff parser start
+2023-06-01 19:41:00,858 DEBUG line_lengths old: 12; new: 1
+2023-06-01 19:41:00,858 DEBUG -> code[replace] old[1:12] new[1:1]
+2023-06-01 19:41:00,858 DEBUG parse_part from 1 to 1 (to 0 in part parser)
+2023-06-01 19:41:00,858 DEBUG diff parser end
+2023-06-01 19:41:02,886 DEBUG diff parser start
+2023-06-01 19:41:02,886 DEBUG line_lengths old: 1; new: 1
+2023-06-01 19:41:02,886 DEBUG -> code[replace] old[1:1] new[1:1]
+2023-06-01 19:41:02,887 DEBUG parse_part from 1 to 1 (to 0 in part parser)
+2023-06-01 19:41:02,887 DEBUG diff parser end
+2023-06-01 19:41:13,617 INFO Searching..
+2023-06-01 19:41:13,618 INFO Succesfull search
+2023-06-01 19:41:41,785 INFO Searching..
+2023-06-01 19:44:18,288 DEBUG diff parser start
+2023-06-01 19:44:18,288 DEBUG line_lengths old: 1; new: 1
+2023-06-01 19:44:18,288 DEBUG -> code[replace] old[1:1] new[1:1]
+2023-06-01 19:44:18,289 DEBUG parse_part from 1 to 1 (to 0 in part parser)
+2023-06-01 19:44:18,289 DEBUG diff parser end
+2023-06-01 19:45:07,272 DEBUG diff parser start
+2023-06-01 19:45:07,273 DEBUG line_lengths old: 1; new: 1
+2023-06-01 19:45:07,273 DEBUG -> code[replace] old[1:1] new[1:1]
+2023-06-01 19:45:07,273 DEBUG parse_part from 1 to 1 (to 0 in part parser)
+2023-06-01 19:45:07,273 DEBUG diff parser end
+2023-06-01 19:50:20,332 DEBUG diff parser start
+2023-06-01 19:50:20,332 DEBUG line_lengths old: 1; new: 15
+2023-06-01 19:50:20,332 DEBUG -> code[replace] old[1:1] new[1:15]
+2023-06-01 19:50:20,334 DEBUG parse_part from 1 to 15 (to 14 in part parser)
+2023-06-01 19:50:20,334 DEBUG diff parser end
+2023-06-01 19:52:17,069 DEBUG diff parser start
+2023-06-01 19:52:17,070 DEBUG line_lengths old: 15; new: 1
+2023-06-01 19:52:17,070 DEBUG -> code[replace] old[1:15] new[1:1]
+2023-06-01 19:52:17,070 DEBUG parse_part from 1 to 1 (to 0 in part parser)
+2023-06-01 19:52:17,070 DEBUG diff parser end
+2023-06-01 19:52:19,336 DEBUG diff parser start
+2023-06-01 19:52:19,336 DEBUG line_lengths old: 1; new: 1
+2023-06-01 19:52:19,337 DEBUG -> code[replace] old[1:1] new[1:1]
+2023-06-01 19:52:19,337 DEBUG parse_part from 1 to 1 (to 0 in part parser)
+2023-06-01 19:52:19,337 DEBUG diff parser end
+2023-06-01 19:52:33,004 INFO inside AddElement method
+2023-06-01 19:52:33,005 INFO inside try block of add element
+2023-06-01 19:52:33,005 INFO element added to the dictionary
+2023-06-01 19:52:39,312 DEBUG diff parser start
+2023-06-01 19:52:39,312 DEBUG line_lengths old: 1; new: 1
+2023-06-01 19:52:39,312 DEBUG -> code[replace] old[1:1] new[1:1]
+2023-06-01 19:52:39,313 DEBUG parse_part from 1 to 1 (to 0 in part parser)
+2023-06-01 19:52:39,313 DEBUG diff parser end
+2023-06-01 19:52:44,326 DEBUG diff parser start
+2023-06-01 19:52:44,327 DEBUG line_lengths old: 1; new: 1
+2023-06-01 19:52:44,327 DEBUG -> code[replace] old[1:1] new[1:1]
+2023-06-01 19:52:44,327 DEBUG parse_part from 1 to 1 (to 0 in part parser)
+2023-06-01 19:52:44,327 DEBUG diff parser end
+2023-06-01 19:52:46,025 DEBUG diff parser start
+2023-06-01 19:52:46,026 DEBUG line_lengths old: 1; new: 1
+2023-06-01 19:52:46,026 DEBUG -> code[replace] old[1:1] new[1:1]
+2023-06-01 19:52:46,026 DEBUG parse_part from 1 to 1 (to 0 in part parser)
+2023-06-01 19:52:46,026 DEBUG diff parser end
+2023-06-01 19:52:58,646 INFO inside AddElement method
+2023-06-01 19:52:58,647 INFO inside try block of add element
+2023-06-01 19:52:58,647 INFO element added to the dictionary
+2023-06-01 20:07:53,031 DEBUG diff parser start
+2023-06-01 20:07:53,031 DEBUG line_lengths old: 1; new: 1
+2023-06-01 20:07:53,031 DEBUG -> code[replace] old[1:1] new[1:1]
+2023-06-01 20:07:53,032 DEBUG parse_part from 1 to 1 (to 0 in part parser)
+2023-06-01 20:07:53,032 DEBUG diff parser end
+2023-06-01 20:12:49,862 DEBUG diff parser start
+2023-06-01 20:12:49,863 DEBUG line_lengths old: 1; new: 1
+2023-06-01 20:12:49,863 DEBUG -> code[replace] old[1:1] new[1:1]
+2023-06-01 20:12:49,863 DEBUG parse_part from 1 to 1 (to 0 in part parser)
+2023-06-01 20:12:49,863 DEBUG diff parser end
