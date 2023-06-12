@@ -1,0 +1,9 @@
+2023-03-24 23:10:20,671:__main__:INFO:End of saveToFile Program
+2023-03-24 23:10:20,671:__main__:DEBUG:########################
+2023-03-24 23:11:08,798:__main__:INFO:End of saveToFile Program
+2023-03-24 23:11:08,798:__main__:DEBUG:########################
+2023-03-24 23:11:24,868:saveToFile:INFO:End of saveToFile Program
+2023-03-24 23:11:24,868:saveToFile:DEBUG:########################
+2023-03-24 23:11:24,868:saveToFile:DEBUG:checking name "imran"....
+2023-03-24 23:11:24,868:saveToFile:DEBUG:No data found
+2023-03-24 23:11:24,868:saveToFile:DEBUG:Saving details of imran...
